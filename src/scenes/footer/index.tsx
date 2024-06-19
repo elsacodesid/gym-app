@@ -1,7 +1,4 @@
 import Logo from "@/assets/Logo.png"
-import Link from "../navbar/Link";
-
-type Props = {};
 
 const Footer = () => {
     return <footer className="bg-primary-100 py-16">
